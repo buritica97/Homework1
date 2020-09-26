@@ -14,7 +14,9 @@ Unit 1 Home Assignment: FinTech Case Study
 * When was the company incorporated?
 
     Kiva was founded in October 2005. 
+    
     Kiva is based in San Francisco, California.  
+    
     Kiva has offices across the world, for example in Bangkok, Nairobi, & Portland.
 
 * Who are the founders of the company?
@@ -27,7 +29,7 @@ Unit 1 Home Assignment: FinTech Case Study
 
 * How is the company funded? How much funding have they received?
 
-    Kiva is founded by crowdfunding. Lenders crowdfund the loan in increments of $25 or more. At the end of the loan cycle lenders have the option to use repayments to fund new loans, donate, or withdraw the money.
+    Kiva is founded by crowdfunding. Lenders crowdfund the loan in increments of $25 or more. At the end of the loan cycle lenders have the option to use repayments to fund new loans, donate, or withdraw the money. Lenders do not receive interest from the loans they provide on Kiva. 
 
     According to it's website Kiva is also supported by grants, loans, and donations from its users, corporations, and national institutions. Some of its major partners include The MasterCard Foundation, the HP Foundation, Capital One, the Pepsico Foundation & the Metlife Foundation just to name a few.
 
@@ -42,10 +44,14 @@ Unit 1 Home Assignment: FinTech Case Study
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+Kiva provides individuals with loans in more than 80 countries. Individuals who apply for a Kiva loan come from many different industries. For example the borrowers may be farmers, artisans, students, & small business owners. As of 2017, 81% of Kiva's loans have been made to women.
+
+More recently Kiva has been developing programs to support individuals obtaining a higher education, to help borrowers move to cleaner and safer forms of energy (Green loans), and to provide support to refugees.
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+Kiva is currently working on a facial recognition system that will make it possible to screen and approve loan applications faster (Microloans: 9 Platforms Changing the Game in 2018).
 
 ## Landscape:
 
@@ -54,6 +60,8 @@ What solution does this company offer that their competitors do not or cannot of
     According to Investopedia, "microloans are small loans that are issued by individuals rather than banks or credit unions." In many cases, like it is for Kiva, microloans are given to impoverished people in Third World countries who otherwise lack access to traditional financing options.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+    
 
 * What are the other major companies in this domain?
 
@@ -85,6 +93,8 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What technologies would this additional product or service utilize?
 
+    Moving forward it would benefit Kiva to continue to use (and to expand thier use of) direct loans. Direct loans do not involve Field Partners, and instead send loan funds straight to a borrower's digital account. Direct loans on Kiva are currently only available to businesses in the US and social enterprises internationally. 
+
 * Why are these technologies appropriate for your solution?
 
 ## Resources 
@@ -99,3 +109,4 @@ https://en.wikipedia.org/wiki/Kashf_Foundation
 
 https://www.investopedia.com/articles/personal-finance/040715/what-microlending-and-how-does-it-work.asp
 
+https://www.disruptordaily.com/microloans-9-platforms-changing-game-2018/
