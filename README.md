@@ -1,5 +1,5 @@
 ### Homework1
-Unit 1 Home Assignment: FinTech Case Study
+Unit 1 Homework Assignment: FinTech Case Study
 
 ## Overview and Origin
 
@@ -63,7 +63,6 @@ Kiva means "unity" in Swahili.
 
     In addition Kiva is currently working on a facial recognition system that will make it possible to screen and approve loan applications faster (Microloans: 9 Platforms Changing the Game in 2018).
 
-
 ## Landscape:
 
 ### * What domain of the financial industry is the company in?
@@ -80,31 +79,41 @@ Kiva means "unity" in Swahili.
 
 ![Kiva Website](https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2015/10/Kiva-borrowers.jpg)
 
+### * What are the other major companies in this domain?
+
+   A major company in this domain is Grameen Bank. Grameen Bank is a microfinance organisation that was founded in Bangladesh in 1983.
+
+   Another major company in this domain is the Kashf Foundation. The Kashf Foundation is a non-profit, microfinance, and wealth organization, founded in Pakistan in 1996.
+
+   Lending Club and Prosper are other financial institutions that provide microloans to their customers. Although it is important to note that unlike Kiva, Lending Club and Prosper mostly lend to individuals in developed countries who usually cannot apply for a more traditional loan.
+
 ## Results
 
-* What has been the business impact of this company so far?
+### * What has been the business impact of this company so far?
+ 
+    Every 2 minutes a  Kiva loan is approved. 
 
+    By 2016, a total of 1,036,558 loans had been funded by Kiva. In addition Kiva had distributed $827,356,850 in loans from 1,394,336 lenders to 1,928,760 borrowers. Furthermore, the average loan size given by Kiva is $411.26, and the average Kiva user has made 10.17 loans (Wikipedia). 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+    Kiva has developed several projects that provide borrowers with alternative ways to establish their credit worthiness. For example in 2011 Kiva brought to the market Kiva Zip, which aims to provide, “small businesses with 0% interest loans by utilizing an entrepreneur’s personal network as a measure of creditworthiness and asking them to vouch for the entrepreneur” (Kiva: A crowdlending twist on traditional microfinance). 
 
-* How is your company performing relative to competitors in the same domain?
+    Kiva has been very successful at not only providing individuals in need with the resources necessary to carry out their business plans but has also been very successful at creating a platform for individuals who want to make a difference in the world. The structure of the Kiva website allows individuals to help others without experiencing donor fatigue by structuring their contributions as loans rather than donations. And by framing their contributions as an opportunity to help someone succeed via their own hard work. 
 
-    One metric in which we may compare Kiva and Grameen Bank is the repayment rate: (as of 2017) Grameen Bank's repayment rate was of 99.6% and (as of 2019) Kiva's repayment rate was between 96% and 97%. 
+    An interesting metric in which we may compare Kiva and Grameen Bank is the repayment rate: (as of 2017) Grameen Bank's repayment rate was of 99.6% and (as of 2019) Kiva's repayment rate was between 96% and 97%.
 
-
-
+    In conclusion thanks to Kiva’s efforts and that of their contributors thousands of students have been able to afford their tuition, thousands of women have been able to start new businesses, and thousands of farmers have been able to invest in their land and crops. 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### * If you were to advise the company, what products or services would you suggest they offer?
 
-* Why do you think that offering this product or service would benefit the company?
+    Moving forward it would benefit Kiva to continue to use (and to expand their use of) direct loans and biometric measures. 
 
-* What technologies would this additional product or service utilize?
+### * What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
 
-    Moving forward it would benefit Kiva to continue to use (and to expand thier use of) direct loans. Direct loans do not involve Field Partners, and instead send loan funds straight to a borrower's digital account. Direct loans on Kiva are currently only available to businesses in the US and social enterprises internationally. 
+    Direct loans do not involve Field Partners, and instead send loan funds straight to a borrower's digital account. The importance of using Direct Loans results from the fact that Direct Loans cost much less to administer and as result borrowers could benefit by paying less interest.Unfortunately Direct Loans on Kiva are currently only available to businesses in the US and social enterprises internationally. 
 
-* Why are these technologies appropriate for your solution?
+    Interest rates have been a major point of controversy within the microlending domain because many argue that high interest rates negatively impact borrowers' ability to succeed and to not default on their loans. However without Field Partners it would be very difficult to reach many borrowers in rural and undeveloped areas. That said, expanding their Direct Loans network and combining it with biometric measures (which help limit fraud and facilitate the loan application process) would greatly improve Kivas ability to reach the borrowers in more rural areas. 
 
 ## Resources 
 
@@ -121,3 +130,6 @@ https://www.investopedia.com/articles/personal-finance/040715/what-microlending-
 https://www.disruptordaily.com/microloans-9-platforms-changing-game-2018/
 
 https://diginomica.com/how-kiva-uses-data-analytics-to-lend-a-hand-and-money-to-refugees
+
+https://digital.hbs.edu/platform-digit/submission/kiva-a-crowdlending-twist-on-traditional-microfinance/
+
